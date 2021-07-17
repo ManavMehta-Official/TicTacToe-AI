@@ -1,6 +1,6 @@
 ## AI for TicTacToe
 
-This a simple project of the implementation of AI in TicTacToe. This project was made using python and pygame. The source code for this project is open to all and anyone can install and run this project on their computer! You can check out the project by [Clicking Here!] (https://github.com/ManavMehta-Official/TicTacToe-AI/tree/main)
+This a simple project of the implementation of AI in TicTacToe. This project was made using python and pygame. The source code for this project is open to all and anyone can install and run this project on their computer! You can check out the project by [Clicking Here!](https://github.com/ManavMehta-Official/TicTacToe-AI/tree/main)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -32,6 +32,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ManavMehta-Official/TicTacToe-AI/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Socials and Contacts
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Already stated that the AI cannot be defeated even if you manage to do so, you can take a screenshot and always send it to me on one of my following social contacts:
+
+![Image](http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png)
