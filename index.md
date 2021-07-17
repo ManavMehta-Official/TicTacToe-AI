@@ -19,6 +19,12 @@ This a simple project of the implementation of AI in TicTacToe. This project was
 For direct Installation you can [Click Here!](https://github.com/ManavMehta-Official/TicTacToe-AI/archive/refs/heads/main.zip)
 or you can Navigate to the [main repository](https://github.com/ManavMehta-Official/TicTacToe-AI) and download from there.
 
+## Launching the Program
+
+1) Open the file through the text editor
+2) Once opened, navigate to `runner.py`
+3) Once `runner.py` has opened, you can run the program through your text editor!
+
 ## Understanding how to play
 
 **1) Once you launch `runner.py` the pygame window would launch and you would see the following screen:** <br>
