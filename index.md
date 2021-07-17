@@ -18,7 +18,7 @@ This a simple project of the implementation of AI in TicTacToe. This project was
 ## Understanding how to play
 
 Once you launch `runner.py` the pygame window would launch and you would see the following screen: <br>
-![StartingPage](file:///Users/Manav/Desktop/Screen%20Shot%202021-07-17%20at%207.08.22%20PM.png)
+![Image](file:///Users/Manav/Desktop/Screen%20Shot%202021-07-17%20at%207.08.22%20PM.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
