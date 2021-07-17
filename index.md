@@ -2,7 +2,8 @@
 
 ## [Home](https://manavmehta-official.github.io/) / [Projects](https://www.youtube.com/) / [About Me]()
 
-
+<br>
+<br>
 
 ## AI for TicTacToe
 
