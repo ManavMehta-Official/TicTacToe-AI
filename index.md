@@ -33,5 +33,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Socials and Contacts
 
 Already stated that the AI cannot be defeated even if you manage to do so, you can take a screenshot and always send it to me on one of my following social contacts:
+![Instagram](http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png) Manav
 
 
