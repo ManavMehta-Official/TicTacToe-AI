@@ -39,3 +39,7 @@ Already stated that the AI cannot be defeated even if you manage to do so, you c
 Discord username `Manav Mehta#5967`
 
 
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
