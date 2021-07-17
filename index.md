@@ -30,14 +30,14 @@ This a simple project of the implementation of AI in TicTacToe. This project was
 ![Play as X](https://github.com/ManavMehta-Official/TicTacToe-AI/blob/gh-pages/Screen%20Shot%202021-07-17%20at%207.29.33%20PM.png?raw=true)
 <br>
 <br>
-**5) Once you place your move, it's the AI's chance. Upon placing the move you will see the following screen::**
+**5) Once you place your move, it's the AI's chance. Upon placing the move you will see the following screen:**
 <br>
 <br>
 ![Image](https://github.com/ManavMehta-Official/TicTacToe-AI/blob/gh-pages/Screen%20Shot%202021-07-17%20at%207.30.00%20PM.png?raw=true)
 <br>
 <br>
 **6) After AI places its move, it's your chance again and the game proceeds until the game results in the AI's win or in a tie!**
-**7) This is what a tie would look like::**
+**7) This is what a tie would look like:**
 <br>
 <br>
 ![Tie](https://github.com/ManavMehta-Official/TicTacToe-AI/blob/gh-pages/Screen%20Shot%202021-07-17%20at%207.29.50%20PM.png?raw=true)
