@@ -62,4 +62,4 @@ or you can Navigate to the [main repository](https://github.com/ManavMehta-Offic
 <br>
 <br>
 
-##### For more information on the project [click here](https://github.com/ManavMehta-Official/TicTacToe-AI).
+##### For more information on the project [click here](https://github.com/ManavMehta-Official/TicTacToe-AI) and follow me on [my github](https://github.com/ManavMehta-Official).
