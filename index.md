@@ -10,9 +10,9 @@ This a simple project of the implementation of AI in TicTacToe. This project was
 
 ## Requirements
 
-1) This program only works on laptops (Windows, MacOS, Linux, Chromebook supported).
-2) You would need to download `python` and `pygame`
-3) Any text editor (Visual Studio Code recommended).
+1) This program only works on laptops (Windows, MacOS, Linux, Chromebook supported). <br>
+2) You would need to download `python` and `pygame` <br>
+3) Any text editor (Visual Studio Code recommended). <br>
 
 ## Understanding how to play
 
