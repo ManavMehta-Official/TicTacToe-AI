@@ -15,10 +15,10 @@ This a simple project of the implementation of AI in TicTacToe. This project was
 2) You would need to download `python` and `pygame`
 3) Any text editor (Visual Studio Code recommended).
 
-### Understanding how to play
+## Understanding how to play
 
-Once you launch `runner.py` the pygame window would launch and you would see the following screen:
-![Starting Page](file:///Users/Manav/Desktop/Screen%20Shot%202021-07-17%20at%207.08.22%20PM.png)
+Once you launch `runner.py` the pygame window would launch and you would see the following screen: <br>
+![StartingPage](file:///Users/Manav/Desktop/Screen%20Shot%202021-07-17%20at%207.08.22%20PM.png)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
