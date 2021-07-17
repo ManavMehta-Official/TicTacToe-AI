@@ -37,6 +37,7 @@ This a simple project of the implementation of AI in TicTacToe. This project was
 <br>
 <br>
 **6) After AI places its move, it's your chance again and the game proceeds until the game results in the AI's win or in a tie!**
+<br>
 **7) This is what a tie would look like:**
 <br>
 <br>
