@@ -1,4 +1,4 @@
-# [Home](https://manavmehta-official.github.io/) # [Projects](https://www.youtube.com/)
+# [Home](https://manavmehta-official.github.io/) / [Projects](https://www.youtube.com/)
 
 ## AI for TicTacToe
 
