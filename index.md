@@ -2,8 +2,6 @@
 
 This a simple project of the implementation of AI in TicTacToe. This project was made using python and pygame. The source code for this project is open to all and anyone can install and run this project on their computer! You can check out the project by [Clicking Here!](https://github.com/ManavMehta-Official/TicTacToe-AI/tree/main)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
