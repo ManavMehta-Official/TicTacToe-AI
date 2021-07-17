@@ -7,18 +7,6 @@ You can make the AI go first or chose it to go after you.
 
 OPEN CHALLENGE: Try to defeat my AI, If you manage to do so, take a screenshot of it and tag me on my instagram: `@manavmehta.official`
 
-## Requirements❗️
-
-Python3, Python and Pygame. The following packages are required to be on your system in order to run this project.
-
-## How To Install❓
-
-Click on code on the home page of this project. Then click on Download zip. The project would now be downloaded on your system.
-
-## How To Use❓
-
-After downloading, open this project using your favourite text editor. (Recommended to use Visual Studio Code). Once open, open the file `runner.py` and run it.
-Now a pygame window would open and you can play with the AI!
 
 ## Source Code
 
@@ -30,5 +18,5 @@ AI algorithm was implemented by `ManavMehta-Official` and the pygame UI was made
 This project was given by cs50ai. 
 
 
-
+### For additional details be sure to check our website!
 
