@@ -1,6 +1,6 @@
 # AI for TicTacToe 
 <br>
-## [Home](https://manavmehta-official.github.io/) / [Projects](https://www.youtube.com/) / [About Me]()
+## [Home](https://manavmehta-official.github.io/) / [Projects](https://www.youtube.com/) / [Services]() / [help]() / [About Me]()
 
 <br>
 <br>
