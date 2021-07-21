@@ -10,13 +10,13 @@ OPEN CHALLENGE: Try to defeat my AI, If you manage to do so, take a screenshot o
 
 ## Source Code
 
-I have made the source code available to all. `runner.py` contains the code for the pygame UI and `tictactoe.py` contains the code for the AI algorithm.
+I have made the source code available to all. `runner.py` contains the code for the pygame UI and `tictactoe.py` contains the code for the AI algorithm. The code is free to use for everyone.
 
-### Credits
+## Credits
 
 AI algorithm was implemented by `ManavMehta-Official` and the pygame UI was made by cs50ai.
 This project was given by cs50ai. 
 
 
-### For additional details be sure to check our website!
+### For more details on this project [Click Here](https://manavmehta-official.github.io/TicTacToe-AI/)
 
